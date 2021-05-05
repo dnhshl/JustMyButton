@@ -2,4 +2,6 @@
     <string name="app_name">JustAButton</string>
     <string name="buttonTxt">Klick me</string>
     <string name="toastTxt">Gute Nacht</string>
+    <string name="toastTx2">Guten Morgen</string>
+
 </resources>
